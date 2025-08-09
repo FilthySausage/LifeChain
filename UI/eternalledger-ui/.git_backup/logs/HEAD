@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 287a6cf7d5c134718bed4137b780081f9a71d5f7 fakedemonal <wyhang2006gt@gmail.com> 1754728542 +0800	clone: from https://github.com/FilthySausage/eternalledger-ui.git
+287a6cf7d5c134718bed4137b780081f9a71d5f7 28fdd2852573c7d93ecbc343490f520a883e47b8 fakedemonal <wyhang2006gt@gmail.com> 1754729096 +0800	checkout: moving from main to herman
+28fdd2852573c7d93ecbc343490f520a883e47b8 28fdd2852573c7d93ecbc343490f520a883e47b8 fakedemonal <wyhang2006gt@gmail.com> 1754731273 +0800	checkout: moving from herman to test-migration-to-testnet
+28fdd2852573c7d93ecbc343490f520a883e47b8 fd65164c5be5d5264c051b2d51cdcd6425aab8cb fakedemonal <wyhang2006gt@gmail.com> 1754761640 +0800	reset: moving to fd65164c5be5d5264c051b2d51cdcd6425aab8cb
+fd65164c5be5d5264c051b2d51cdcd6425aab8cb 85bd0c275f3232b91abdbab059d680a66982e5eb fakedemonal <wyhang2006gt@gmail.com> 1754776171 +0800	commit: latest
+85bd0c275f3232b91abdbab059d680a66982e5eb f4b8a5c3dcfab56f0dd444f605971fc0131d2b7a fakedemonal <wyhang2006gt@gmail.com> 1754776403 +0800	commit (merge): Merge branch 'herman' into test-migration-to-testnet
