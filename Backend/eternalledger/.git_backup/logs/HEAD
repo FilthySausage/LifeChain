@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754713238 +0800	clone: from https://github.com/FilthySausage/eternalledger.git
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754713272 +0800	checkout: moving from main to Wyhang-gay-branch
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 1d61685e3efaa8e60e0b8bc9511d715df83a23cf fakedemonal <wyhang2006gt@gmail.com> 1754718016 +0800	commit: added ui
+1d61685e3efaa8e60e0b8bc9511d715df83a23cf 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754718253 +0800	checkout: moving from Wyhang-gay-branch to main
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754721797 +0800	reset: moving to HEAD
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754721798 +0800	reset: moving to HEAD
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 6e3eb92c4009023feb3cce64ca4ec9553b913239 fakedemonal <wyhang2006gt@gmail.com> 1754724092 +0800	commit: LOL
+6e3eb92c4009023feb3cce64ca4ec9553b913239 ab2091ae0507931e707a1a0204c2683060b337cf fakedemonal <wyhang2006gt@gmail.com> 1754724200 +0800	commit: ok this latest
+ab2091ae0507931e707a1a0204c2683060b337cf 1d61685e3efaa8e60e0b8bc9511d715df83a23cf fakedemonal <wyhang2006gt@gmail.com> 1754724820 +0800	checkout: moving from main to Wyhang-gay-branch
+1d61685e3efaa8e60e0b8bc9511d715df83a23cf ab2091ae0507931e707a1a0204c2683060b337cf fakedemonal <wyhang2006gt@gmail.com> 1754741083 +0800	checkout: moving from Wyhang-gay-branch to main
+ab2091ae0507931e707a1a0204c2683060b337cf 85d304657fc5b3cf463690cb720c98197a5808d4 fakedemonal <wyhang2006gt@gmail.com> 1754741138 +0800	checkout: moving from main to origin/main
+85d304657fc5b3cf463690cb720c98197a5808d4 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754745231 +0800	checkout: moving from 85d304657fc5b3cf463690cb720c98197a5808d4 to 59edf84a9cc734c7d4142c7ac60c7b15d15d236f
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754745251 +0800	checkout: moving from 59edf84a9cc734c7d4142c7ac60c7b15d15d236f to subgraph-implementation
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f 59edf84a9cc734c7d4142c7ac60c7b15d15d236f fakedemonal <wyhang2006gt@gmail.com> 1754745423 +0800	checkout: moving from subgraph-implementation to 59edf84a9cc734c7d4142c7ac60c7b15d15d236f
+59edf84a9cc734c7d4142c7ac60c7b15d15d236f ab2091ae0507931e707a1a0204c2683060b337cf fakedemonal <wyhang2006gt@gmail.com> 1754758306 +0800	checkout: moving from 59edf84a9cc734c7d4142c7ac60c7b15d15d236f to main
+ab2091ae0507931e707a1a0204c2683060b337cf ab2091ae0507931e707a1a0204c2683060b337cf fakedemonal <wyhang2006gt@gmail.com> 1754758387 +0800	checkout: moving from main to main
+ab2091ae0507931e707a1a0204c2683060b337cf ab2091ae0507931e707a1a0204c2683060b337cf fakedemonal <wyhang2006gt@gmail.com> 1754758393 +0800	reset: moving to main
+ab2091ae0507931e707a1a0204c2683060b337cf f16a08c3f6071debded7992a6a0ae3cd5d76378c fakedemonal <wyhang2006gt@gmail.com> 1754761255 +0800	checkout: moving from main to herman
+f16a08c3f6071debded7992a6a0ae3cd5d76378c 8e7c9c80c8e4ce8739228371752968588e808f6a fakedemonal <wyhang2006gt@gmail.com> 1754776543 +0800	commit: latest
+8e7c9c80c8e4ce8739228371752968588e808f6a 325c2187accf0fbbc793b40ea26fb72945585b62 fakedemonal <wyhang2006gt@gmail.com> 1754776597 +0800	commit (merge): Merge branch 'herman' of https://github.com/FilthySausage/eternalledger into herman
